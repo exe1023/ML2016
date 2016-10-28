@@ -1,3 +1,3 @@
 #!/bin/bash
 
-python2 train.py $1 $2
+python2 dn.py $1 $2
